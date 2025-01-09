@@ -1,8 +1,9 @@
 <h2 align="center">Hello Everyone! Me chamo Josué Garcia</h2>
 
 ###
-
-<pre align="center">Aprendendo a solucionar problemas por meio da programação</pre>
+<div align="center">
+  <pre align="center">Aprendendo a solucionar problemas por meio da programação</pre>
+</div>  
 
 ###
 
