@@ -1,8 +1,8 @@
-<h2 align="center">Hello Everyone! Me chamo Josué Garcia</h2>
+<h2 align="center">Hello Everyone! I'm Josué Garcia</h2>
 
 ###
 <div align="center">
-  <pre align="center">Aprendendo a solucionar problemas por meio da programação</pre>
+  <pre align="center">Learning to solve problems through programming</pre>
 </div>  
 
 ###
