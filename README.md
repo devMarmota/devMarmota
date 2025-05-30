@@ -24,15 +24,15 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vite" height="48" alt="vite logo"  />
-  <img width="18" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="48" alt="nuxtjs logo"  />
-  <img width="18" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="tailwindcss logo"  />
-  <img width="18" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"  />
-  <img width="18" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=flask" height="48" alt="flask logo"  />
-  <img width="18" />
+  <img width="16" />
   <img src="https://cdn.simpleicons.org/sqlite/003B57" height="48" alt="sqlite logo"  />
 </div>
 
